@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 main
 pu pu pu
 oooooooo
@@ -7,3 +8,6 @@ branch1
 =======
 main
 >>>>>>> 5771ba2 (Revert "added branch1.txt and changed files")
+=======
+try1
+>>>>>>> ca0765e (Added rebase.txt)
